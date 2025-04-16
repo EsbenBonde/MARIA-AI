@@ -1,5 +1,3 @@
-
-
 # MARIA: Mirror, Analyze, Reflect Intelligence Adaptor
 
 ![MARIA Demo](demo.gif)
