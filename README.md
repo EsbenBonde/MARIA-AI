@@ -1,4 +1,4 @@
-markdown
+
 
 # MARIA: Mirror, Analyze, Reflect Intelligence Adaptor
 
